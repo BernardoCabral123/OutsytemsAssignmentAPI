@@ -79,16 +79,6 @@
     {"id": 23, "postId": 12, "userId": 4, "body": "Comment body 23", "created_at": 1672525800, "last_modified_at": 1672612200},
     {"id": 24, "postId": 12, "userId": 5, "body": "Comment body 24", "created_at": 1672525800, "last_modified_at": 1672612200},
     {"id": 25, "postId": 13, "userId": 6, "body": "Comment body 25", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 26, "postId": 13, "userId": 7, "body": "Comment body 26", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 27, "postId": 14, "userId": 8, "body": "Comment body 27", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 28, "postId": 14, "userId": 9, "body": "Comment body 28", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 29, "postId": 15, "userId": 10, "body": "Comment body 29", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 30, "postId": 15, "userId": 11, "body": "Comment body 30", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 31, "postId": 16, "userId": 12, "body": "Comment body 31", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 32, "postId": 16, "userId": 13, "body": "Comment body 32", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 33, "postId": 17, "userId": 14, "body": "Comment body 33", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 34, "postId": 17, "userId": 15, "body": "Comment body 34", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 35, "postId": 18, "userId": 16, "body": "Comment body 35", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 36, "postId": 18, "userId": 17, "body": "Comment body 36", "created_at": 1672525800, "last_modified_at": 1672612200}
+    {"id": 26, "postId": 13, "userId": 7, "body": "Comment body 26", "created_at": 1672525800, "last_modified_at": 1672612200}
   ]
 }
