@@ -1,1 +1,50 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "created_at": 1672521600,  // Jan 1, 2023
+      "last_modified_at": 1675104000  // Feb 1, 2023
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "created_at": 1672521600,  // Jan 1, 2023
+      "last_modified_at": 1675104000  // Feb 1, 2023
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Exploring the New Features of ChatGPT",
+      "created_at": 1672525200,  // Jan 1, 2023, 01:00 AM
+      "last_modified_at": 1672611600  // Jan 2, 2023, 01:00 AM
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Best Practices in Data Security",
+      "created_at": 1672608000,  // Jan 2, 2023
+      "last_modified_at": 1672694400  // Jan 3, 2023
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "userId": 2,
+      "body": "Very informative post! Thanks for sharing.",
+      "created_at": 1672611600,  // Jan 2, 2023, 01:00 AM
+      "last_modified_at": 1672698000  // Jan 3, 2023, 01:00 AM
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "userId": 1,
+      "body": "Glad you found it helpful!",
+      "created_at": 1672694400,  // Jan 3, 2023
+      "last_modified_at": 1672780800  // Jan 4, 2023
+    }
+  ]
+}
