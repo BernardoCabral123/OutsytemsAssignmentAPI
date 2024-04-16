@@ -89,20 +89,6 @@
     {"id": 33, "postId": 17, "userId": 14, "body": "Comment body 33", "created_at": 1672525800, "last_modified_at": 1672612200},
     {"id": 34, "postId": 17, "userId": 15, "body": "Comment body 34", "created_at": 1672525800, "last_modified_at": 1672612200},
     {"id": 35, "postId": 18, "userId": 16, "body": "Comment body 35", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 36, "postId": 18, "userId": 17, "body": "Comment body 36", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 37, "postId": 19, "userId": 18, "body": "Comment body 37", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 38, "postId": 19, "userId": 19, "body": "Comment body 38", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 39, "postId": 20, "userId": 20, "body": "Comment body 39", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 40, "postId": 20, "userId": 1, "body": "Comment body 40", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 41, "postId": 21, "userId": 2, "body": "Comment body 41", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 42, "postId": 21, "userId": 3, "body": "Comment body 42", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 43, "postId": 22, "userId": 4, "body": "Comment body 43", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 44, "postId": 22, "userId": 5, "body": "Comment body 44", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 45, "postId": 23, "userId": 6, "body": "Comment body 45", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 46, "postId": 23, "userId": 7, "body": "Comment body 46", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 47, "postId": 24, "userId": 8, "body": "Comment body 47", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 48, "postId": 24, "userId": 9, "body": "Comment body 48", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 49, "postId": 25, "userId": 10, "body": "Comment body 49", "created_at": 1672525800, "last_modified_at": 1672612200},
-    {"id": 50, "postId": 25, "userId": 11, "body": "Comment body 50", "created_at": 1672525800, "last_modified_at": 1672612200}
+    {"id": 36, "postId": 18, "userId": 17, "body": "Comment body 36", "created_at": 1672525800, "last_modified_at": 1672612200}
   ]
 }
