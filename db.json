@@ -44,7 +44,7 @@
     {"id": 20, "userId": 20, "title": "Post Title 20", "created_at": 1672525200, "last_modified_at": 1672611600},
     {"id": 21, "userId": 1, "title": "Post Title 21", "created_at": 1672525200, "last_modified_at": 1672611600},
     {"id": 22, "userId": 2, "title": "Post Title 22", "created_at": 1672525200, "last_modified_at": 1672611600},
-    {"id": 23, "userId": 3, "title": "Post Title 23", "created_at": 1672525200, "last_modified_at": 1672611600},
+    {"id": 23, "userId": 3, "title": "Post Title 23", "created_at": 1672525200, "last_modified_at": 1672611600}
   ],
   "comments": [
     {"id": 1, "postId": 1, "userId": 2, "body": "Comment body 1", "created_at": 1672525800, "last_modified_at": 1672612200},
